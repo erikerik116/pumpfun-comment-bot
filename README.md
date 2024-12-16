@@ -1,4 +1,4 @@
-# 🎉  PumpFun Comment Bot  🚀
+#  PumpFun Comment Bot  
 
 ## Overview
 
@@ -6,6 +6,11 @@
 
 
 Welcome to the **Comment Bot for PumpFun**! This handy tool automates the process of posting comments on the PumpFun platform.
+## Contact info
+
+- discord: @erikerik116
+
+- telegram: @erikerik116
 
 ## Features
 
@@ -27,7 +32,7 @@ Make sure you have the following installed:
 
    - **Clone using Git**:
      ```bash
-     git clone https://github.com/your-username/pumpfun-comment-bot.git
+     git clone https://github.com/erikerik116/pumpfun-comment-bot.git
      ```
 
    - **Download as ZIP**:
@@ -37,7 +42,7 @@ Make sure you have the following installed:
 
    Open your terminal or command prompt and navigate to the project directory:
    ```bash
-   cd pumpfun-comment-bot-for-pumpfun
+   cd pumpfun-comment-bot
 
 3. **Install Dependencies:**
 
