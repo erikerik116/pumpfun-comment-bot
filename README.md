@@ -1,5 +1,9 @@
 #  PumpFun Comment Bot  
 
+The Pumpfun Comment Bot is an open-source utility that automates the process of adding comments to your projects. It supports both thread mode and shill mode for versatile engagement strategies.
+
+This bot enhances interaction and engagement on your projects by automating comment posting. It provides a user-friendly interface, employs human-like comments, offers multiple operational modes, and integrates advanced anti-captcha functionality.
+
 ## Overview
 
 ![Screenshot 2024-09-08 132902](https://github.com/user-attachments/assets/ffd110a6-4223-4d0e-a22b-06870f09ed0b)
@@ -16,13 +20,6 @@ Welcome to the **Comment Bot for PumpFun**! This handy tool automates the proces
 
 - 🤖 **Automated Commenting**: Effortlessly post comments on PumpFun using a list of predefined comments..
 - ✍️ **User Input**: Engage with a prompt to enter your desired link before launching the bot.
-
-## Prerequisites
-
-Make sure you have the following installed:
-
-- [Node.js](https://nodejs.org/) (v14 or higher) 🌐
-- npm (Node package manager, comes with Node.js) 📦
 
 ## Installation Instructions
 
